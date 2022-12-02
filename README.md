@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hl5chen
-- 👀 I’m a student at University of Toronto
-- 🌱 I’m currently learning cloud computing and painting. 
+- 🌱 I’m a computer engineering student at University of Toronto
+- 👀 I’m currently learning computer vision and machine learning. 
 - 📫 Feel free to email me at hsuan_ling@hotmail.com!
 
 
