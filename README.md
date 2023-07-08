@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clnchn
-- 🌱 I’m a computer engineering student at University of Toronto
+- 🌱 I’m a computer engineer
 - 📫 Feel free to email me at hsuan_ling@hotmail.com!
 
 
