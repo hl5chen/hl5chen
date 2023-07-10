@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @clnchn
-- 🌱 I’m a computer engineer
-- 📫 Feel free to email me at hsuan_ling@hotmail.com!
-
-
 ### Hi there! 
-
 
 I am Celene, I
 
@@ -15,7 +9,7 @@ I am Celene, I
 - 🏸 Play badminton every weekend
 - 🖥 You can learn more about me at my personal website. [https://clnchn.github.io/](https://clnchn.github.io/)
 Feel free to reach me at [hsuan_ling@hotmail.com](hsuan_ling@hotmail.com) if you want to grab a coffee, play badminton or just chat about anything! 
-<p align="center"><img src=https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif alt="animated" width="300" height="250"/> </p>
+<p align="center"><img src=https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif alt="animated" width="300" height="250"/> </p>
 
 
 <!---
