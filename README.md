@@ -2,7 +2,7 @@
 
 I am Celene, I
 
-- 🌱 am a software engineer currently working on my Masters at University of Toronto 
+- 🌱 am a software engineer currently working on my Masters in Analytics and AI at University of Toronto 
 - 🍵 Coffee addict
 - 🐳 Graduated from University of Waterloo, interested in embedded software, computer vision, and Big Data
 - 🎵 Practicing violin, my favorite inspiration is Henry Lau
