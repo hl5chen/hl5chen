@@ -6,7 +6,7 @@ I am Celene, I
 - 🍵 Coffee addict
 - 🐳 Graduated from University of Waterloo, interested in embedded software, machine learning, and Big Data
 - 🎵 Practicing violin, my favorite inspiration is Henry Lau
-- 🏸 Play badminton every weekend
+- 🏸 Play badminton every Thursday!
 - 🖥 You can learn more about me at my personal website. [https://clnchn.github.io/](https://clnchn.github.io/)
 Feel free to reach me at [hsuan_ling@hotmail.com](hsuan_ling@hotmail.com) if you want to grab a coffee, play badminton or just chat about anything!
 
