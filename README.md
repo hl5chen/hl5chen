@@ -4,7 +4,7 @@ I am Celene, I
 
 - 🌱 am a software engineer currently working on my Masters in Analytics and AI at University of Toronto 
 - 🍵 Coffee addict
-- 🐳 Graduated from University of Waterloo, interested in embedded system, automation, and AIs
+- 🐳 Graduated from University of Waterloo, interested in embedded system, automation, and computer vision
 - 🎵 Practicing violin, my favorite inspiration is Henry Lau
 - 🏸 Play badminton every Thursday!
 - 🖥 You can learn more about me at my personal website. [https://clnchn.github.io/](https://clnchn.github.io/)
