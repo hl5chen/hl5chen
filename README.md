@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 -   💻   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=203A43&logoColor=bdbdbd&color=18B3E8)
-    ![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=cpp&labelColor=203A43&logoColor=bdbdbd&color=18B3E8)
+    ![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=c++&labelColor=203A43&logoColor=bdbdbd&color=18B3E8)
     ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&labelColor=203A43&logoColor=bdbdbd&color=18B3E8)
     ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=mathworks&labelColor=203A43&logoColor=bdbdbd&color=18B3E8)
     ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&labelColor=203A43&logoColor=bdbdbd&color=18B3E8)
