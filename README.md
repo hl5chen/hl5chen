@@ -1,4 +1,4 @@
-## Hi there! 
+# Hi there! 
 
 I am Celene, I
 
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 
 -   💻   ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=203A43&logoColor=bdbdbd&color=18B3E8)
